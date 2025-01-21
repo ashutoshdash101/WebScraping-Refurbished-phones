@@ -17,7 +17,10 @@ This repository focuses on web scraping data for refurbished smartphones from Am
     - Processor
     - Connectivity options
     - Brand
-  - **Customer Reviews**: Detailed reviews provided by customers.
+    - Reviews of smartphones
+- **Data Preprocessing**: Cleaning and structuring the scraped data for seamless analysis.
+- **Analysis and Insights**: Comprehensive insights derived from the cleaned data.
+- **Export Options**: Cleaned data exported to CSV format for further use.
 - **Tools**:
   - **Octoparse 8**: For automating web scraping tasks.
   - **BeautifulSoup**: For parsing and extracting data from HTML.
